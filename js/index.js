@@ -3,7 +3,7 @@
 let database = {
     wind: {
         title: "Implementing Green Energy Solutions",
-        url: "imgmasthead4.jpg",
+        url: "img/masthead4.jpg",
         alt: "a beautiful field",
         body: "Implementing green energy solutions in your home can significantly reduce energy bills and contribute to environmental sustainability. Hydropower has long been a reliable and established source of renewable energy, but the future of this energy sector is poised for transformation. As the world shifts toward cleaner, more sustainable energy."
     },
