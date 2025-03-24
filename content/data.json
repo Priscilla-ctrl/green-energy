@@ -1,0 +1,20 @@
+{
+    "wind": {
+        "title": "Title Goes here",
+        "url": "https://placehold.co/400?text=Wind",
+        "alt": "an image of ....",
+        "body": "Content about wind ..."
+    },
+    "sun": {
+        "title": "Title Goes here",
+        "url": "https://placehold.co/400?text=Sun",
+        "alt": "an image of ....",
+        "body": "Content about sun ..."
+    },
+    "water": {
+        "title": "Title Goes here",
+        "url": "https://placehold.co/400?text=Water",
+        "alt": "an image of ....",
+        "body": "Content about water ..."
+    }
+}
